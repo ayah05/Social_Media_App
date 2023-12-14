@@ -27,5 +27,5 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: swe-docker-image-ai-engineering
+        tags: ai23m051/fhsweai:swe-docker-image-ai-engineering
     
