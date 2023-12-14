@@ -1,0 +1,8 @@
+fastapi
+flake8
+pytest
+httpx
+bcrypt 
+authutils
+python-multipart
+uvicorn
